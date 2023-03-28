@@ -16,6 +16,6 @@ python lichhoc.py</code><br>
     
   </li>
   <li>
-    Thắc mắc liên hệ : <a href="https://www.facebook.com/bumbum26.4" target="_blank" ><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link="https://www.facebook.com/bumbum26.4"></a>
+    Thắc mắc liên hệ : <a href="https://www.facebook.com/bumbum26.4" target="_blank" ><img src="https://img.shields.io/badge/-Nguyễn Công Giới-blue?style=flat-square&logo=facebook&logoColor=white&link="https://www.facebook.com/bumbum26.4"></a>
   </li>
 </ul>
