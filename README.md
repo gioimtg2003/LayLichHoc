@@ -4,7 +4,7 @@
    Đăng Nhập vào trang sv.vaa.edu.vn để lấy cookies
   </li>
   <li>
-     Download tool về (đã cài đặt git):
+     Download tool chưa có giao diện (đã cài đặt git):
      Vào command gõ lệnh<br>
     <code>git clone https://github.com/gioimtg2003/LayLichHoc.git
 cd LayLichHoc
