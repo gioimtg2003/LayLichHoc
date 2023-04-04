@@ -1,7 +1,7 @@
 # Tool: Lấy lịch học phần 
 # Author: Nguyễn Công Giới
 # Version: 1.0
-# Date: 31/4/2023
+# Date: 31/3/2023
 import os, sys
 import time, html
 import tkinter as tk
